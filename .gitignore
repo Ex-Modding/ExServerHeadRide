@@ -1,0 +1,11 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Gradle & Build Artifacts
+.gradle/
+build/
+bin/
+out/
+.idea/
+*.iml
